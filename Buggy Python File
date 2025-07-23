@@ -1,0 +1,6 @@
+# There's a logic bug in here!
+
+def greet(name):
+  print("Hello" + name) #forgot space!
+
+greet("Jaclyn")
