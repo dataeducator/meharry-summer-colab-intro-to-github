@@ -1,12 +1,17 @@
-# GitHub Lab: Explore, Commit, Collaborate 🚀
+## GitHub Lab: Explore, Commit, Collaborate 🚀
 
 Welcome to your hands-on GitHub adventure!  
+
 In this lab you'll learn how to:
 
 - Fork and clone a repo
 - Make commits and write good messages
 - Fix bugs in code and track changes
 - Collaborate and review each other’s work
+Bonus:
+- Build a simple webpage with GitHub Pages
+- Automate basic code checks with GitHub Actions
 
 Start by opening the `challenges.md` file, then dive into the folders!  
+
 Have fun 💻🎉
