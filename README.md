@@ -11,10 +11,11 @@ Many folks use GitHub to build some of the most awesome tools and technologies a
 - **Time commitment**: 1 - 2 hours
 
 In this course, you will:
-  1. Create a branch
-  2. Commit a file
-  3. Open a pull request
-  4. Merge your pull request
+  1. Create a profile READMe
+  2. Create a branch
+  3. Commit a file
+  4. Open a pull request
+  5. Merge your pull request
 
 **What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
 
