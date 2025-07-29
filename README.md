@@ -11,11 +11,9 @@ Many folks use GitHub to build some of the most awesome tools and technologies a
 - **Time commitment**: 1 - 2 hours
 
 In this course, you will:
-  1. Create a profile READMe
-  2. Create a branch
-  3. Commit a file
-  4. Open a pull request
-  5. Merge your pull request
+  1. [Practice Markdown](https://www.markdowntutorial.com/lesson/1/)
+  2. Create a Profile README
+  3. [Practice GitHub Skills](https://github.com/skills/introduction-to-github)
 
 **What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
 
@@ -23,4 +21,5 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
 
-![profile-readme-example](/images/profile-readme-example.png)
+
+<img width="478" height="428" alt="profileReadMENorwood" src="https://github.com/user-attachments/assets/3ed5237a-80f0-4a24-81a1-73fe9b667231" />
