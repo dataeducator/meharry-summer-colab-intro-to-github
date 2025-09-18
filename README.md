@@ -4,7 +4,7 @@ _A quick start guide for using GitHub_
 ## Overview
 Many folks use GitHub to build some of the most awesome tools and technologies avaiable across the world. Regardless if you just want a place to host your portfolio, build a video game, or are a data nerd into visualization, there is a community of learners, tinkerers, developers and a pleothera of tools on GitHub that can help you do it faster, better and maybe even simpler. 
 
-- **Who is this for**: Studetns, new GitHub users, New developers
+- **Who is this for**: Students, new GitHub users, New developers
 - **What will you learn**: We will introduce repos, branches, commits, and pull requests.
 - **What you will build**:  Ww will build a brief Markdown file you can use as the backbone of your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - **Pre-reqs**: Internet access and a willingness to learn.
