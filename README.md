@@ -1,4 +1,4 @@
-# Meharry Summer Colab: An Introduction to Github
+# Meharry Fall: An Introduction to Github
 _A quick start guide for using GitHub_
 
 ## Overview
