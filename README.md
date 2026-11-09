@@ -6,7 +6,7 @@ Many folks use GitHub to build some of the most awesome tools and technologies a
 
 - **Who is this for**: Students, new GitHub users, New developers
 - **What will you learn**: We will introduce repos, branches, commits, and pull requests.
-- **What you will build**:  Ww will build a brief Markdown file you can use as the backbone of your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- **What you will build**:  We will build a brief Markdown file you can use as the backbone of your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 - **Pre-reqs**: Internet access and a willingness to learn.
 - **Time commitment**: 1 - 2 hours
 
